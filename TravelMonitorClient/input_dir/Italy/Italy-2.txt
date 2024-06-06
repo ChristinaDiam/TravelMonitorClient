@@ -1,0 +1,23 @@
+5419 Kxmfn Aitxqftn Italy 91 CHLAMYDIA NO
+4981 Nbaghwxmeiwi Rbwcxcmwfc Italy 74 CHOLERA NO
+2216 Nbvt Jczs Italy 87 SYPHILIS YES 18-02-1937
+2847 Vmqglhhk Admpfhfmfbhx Italy 102 MALARIA NO
+2847 Vmqglhhk Admpfhfmfbhx Italy 102 CHLAMYDIA NO
+77 Nfkxuyacfvsh Ssrzmxqbieag Italy 88 FLU YES
+2501 Yaamg Ygiwtknv Italy 28 CHLAMYDIA NO
+6435 Nxjrqfnnupx Hhyjypmx Italy 73 AIDS NO
+2942 Xbwqit Eytcq Italy 83 CHLAMYDIA YES 13-01-1982
+1089 Ihqfwfzsgraz Ufea Italy 5 SYPHILIS YES
+1059 Pyfjbvaepb Axkjxylnopuo Italy 71 H1N1 NO 01-11-1952
+7954 Fonn Uqpwfkqkcakf Italy 105 SMALLPOX YES 21-09-1952
+3738 Erb Gqqyyv Italy 60 HEPATITIS-B YES
+3878 Goxs Ykjcpndrk Italy 109 SARS-1 YES 19-11-2009
+315 Zzopcwzfll Eytiu Italy 83 EBOLA YES 09-04-1968
+6299 Dklhr Hnqtde Italy 66 SMALLPOX YES
+4953 Uplmrpko Ftexq Italy 56 FLU NO 26-06-2005
+7239 Ydvqlkn Muhtrhz Italy 61 HEPATITIS-C YES
+7239 Ydvqlkn Muhtrhz Italy 61 COVID-19 YES 30-12-1968
+245 Goc Ppi Italy 87 SMALLPOX YES
+245 Goc Ppi Italy 87 SMALLPOX NO 30-08-1951
+245 Goc Ppi Italy 87 HEPATITIS-A NO 26-04-1954
+8110 Vncergg Jrbziglans Italy 50 MALARIA NO 22-01-1992

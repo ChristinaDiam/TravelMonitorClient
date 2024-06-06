@@ -1,0 +1,22 @@
+5226 Xwred Mqjzsaxkxhqc Canada 105 CHLAMYDIA NO
+5226 Xwred Mqjzsaxkxhqc Canada 105 SMALLPOX YES 01-12-1945
+4133 Ytxg Yyj Canada 37 EBOLA YES 12-10-2011
+471 Rllirjctzq Pgimnzyomtsc Canada 53 EBOLA YES 16-01-1968
+9499 Flutkvvdnttl Bxcfzbrih Canada 104 SMALLPOX YES
+2282 Cpck Qtotxiwnyop Canada 47 POLIO NO
+1151 Yqivyvkxmfcv Rgvoureouaqt Canada 111 HEPATITIS-C YES
+1151 Yqivyvkxmfcv Rgvoureouaqt Canada 111 EBOLA NO 10-01-1938
+1175 Bmilhjx Mngd Canada 98 MALARIA NO 06-08-1949
+1175 Bmilhjx Mngd Canada 98 CHOLERA NO 02-12-2013
+928 Zyu Apqwa Canada 85 EBOLA YES
+9285 Dcf Jgfiinmufc Canada 83 FLU NO
+1734 Hzejoc Hbdz Canada 30 HEPATITIS-A NO
+387 Mmkbovxn Esytxawzaad Canada 57 SYPHILIS NO
+9524 Yehufqp Cwbrn Canada 10 PLAGUE YES 05-10-2018
+9524 Yehufqp Cwbrn Canada 10 SYPHILIS YES
+3090 Uydls Bwok Canada 96 SMALLPOX NO
+2322 Ewple Wtdjjmzknpoo Canada 64 SARS-1 NO 27-06-2006
+957 Tkuszjd Awllknapqd Canada 106 EBOLA NO 26-08-2000
+3971 Ktdcl Grmdubljldzm Canada 26 CHLAMYDIA YES
+1073 Bzgjmzjnowth Paephkcyfj Canada 7 COVID-19 YES
+1073 Bzgjmzjnowth Paephkcyfj Canada 7 H1N1 NO 07-11-2021

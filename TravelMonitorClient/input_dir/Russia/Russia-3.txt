@@ -1,0 +1,25 @@
+7869 Qymvx Hcu Russia 77 PLAGUE NO 28-11-2020
+7869 Qymvx Hcu Russia 77 POLIO NO 16-09-1963
+7869 Qymvx Hcu Russia 77 MALARIA NO 20-08-1981
+7355 Ocmfn Ofbvw Russia 61 SMALLPOX NO 17-05-1969
+7174 Xcjfarlesbso Qfb Russia 44 PLAGUE YES 16-03-2004
+7174 Xcjfarlesbso Qfb Russia 44 HEPATITIS-A NO
+7328 Dcwuhypbide Mrb Russia 43 CHOLERA YES
+1019 Krialqlvdi Zgk Russia 119 SARS-1 NO
+5572 Vkjllr Zxqew Russia 77 CHOLERA YES 08-02-2019
+5572 Vkjllr Zxqew Russia 77 MALARIA NO
+923 Hbuv Feiu Russia 118 FLU YES 17-03-2012
+7348 Kjdmvfo Uecimd Russia 95 CHLAMYDIA NO
+7348 Kjdmvfo Uecimd Russia 95 CHLAMYDIA YES
+4289 Gokj Rxlual Russia 11 FLU YES 20-08-2011
+4289 Gokj Rxlual Russia 11 H1N1 NO 15-04-2010
+2504 Efcxyjrtnl Hhrorvxodnsv Russia 7 CHLAMYDIA YES
+5622 Bclyhoyvg Dtk Russia 73 SARS-1 YES 18-06-1977
+6728 Aljlraaipv Hcdnimm Russia 71 CHOLERA YES
+1958 Ppnu Zceduzjovvp Russia 104 H1N1 YES 04-08-1937
+2786 Pard Yyditrblvwc Russia 53 HEPATITIS-B YES
+4766 Xqhnjg Gfrv Russia 109 SYPHILIS YES 08-02-1992
+4766 Xqhnjg Gfrv Russia 109 SARS-1 NO 08-08-1971
+6175 Fzc Pevshgdv Russia 103 HEPATITIS-A YES
+6302 Ldzcl Ovgpeo Russia 48 POLIO NO 15-07-2015
+191 Iffxdblvkzp Vhmoqtuoum Russia 110 POLIO NO
